@@ -4,16 +4,17 @@ body{
 }
 
 img {
-    width: 400px;
-    height: 800px;
+    width: 30%;
+    height: 600px;
     display: inline-block;
     float: left;
     object-fit: contain;
-    margin-left: 10%;
+    margin-left: 20%;
+    margin-top: 100px;
 }
 
 div {
-    width: 50%;
+    width: 30%;
     display: inline-block;
     float: left;
     text-align: center;
